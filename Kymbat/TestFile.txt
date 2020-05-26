@@ -2,3 +2,5 @@ Stay hungry, stay foolish!
 Hi, some change in your folder.
 
 Hi all, that's a new line
+
+new commit line
