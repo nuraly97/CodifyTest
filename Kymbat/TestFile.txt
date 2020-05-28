@@ -2,7 +2,7 @@ Do not stay home
 -Go to Codify__tu
 Hi, some change in your folder.
 
-Hi all, that's a new line
+Hi all, that's a new line..
 
 
 This is new line to Pull request
