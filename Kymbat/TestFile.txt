@@ -6,3 +6,5 @@ Hi all, that's a new line
 
 new commit line
 Commit from Murataly
+
+Я уже здесь написал
